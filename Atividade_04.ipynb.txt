@@ -1,0 +1,104 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyO2swJGZpBak7MtbbQcKBi0",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Raquel901/receita-bolo-algoritmo/blob/main/Atividade_04.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#Curso Tecnico em Nivel Medio de Inteligencia Artificial\n",
+        "**Aluna:** Raquel Mota dos Santos\n",
+        "\n",
+        "**Aluna:** Camila Jeniffer dos Santos Vilaça"
+      ],
+      "metadata": {
+        "id": "KUutJ5HPzY0u"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "nu1 = 0 # Defina nu1 com um valor apropriado\n",
+        "nu2 = 0 # Defina nu2 com um valor apropriado\n",
+        "\n",
+        "print (\"ola, Mundo\")\n",
+        "\n",
+        "print(5 + 5 - 2)\n",
+        "print(nu1)\n",
+        "print(5 ** 2)\n",
+        "print(nu2)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "yWpuRrYR7pal",
+        "outputId": "2997b0c2-658f-4639-ee3f-78217b1c6d1b"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "ola, Mundo\n",
+            "8\n",
+            "0\n",
+            "25\n",
+            "0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Script 1\n",
+        "# Função criada pelo usuário\n",
+        "def dobro(x):\n",
+        "  print(x * 2)\n",
+        "dobro(125)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "0b6-CgwoVimz",
+        "outputId": "57d8bab5-ba63-4283-a2d1-bb6ccdb9e950"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "250\n"
+          ]
+        }
+      ]
+    }
+  ]
+}
